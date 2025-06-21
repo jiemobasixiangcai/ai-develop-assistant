@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ai-develop-assistant": {
+      "command": "python",
+      "args": [
+        "/mnt/persist/workspace/AIDevlopStudy.py"
+      ],
+      "env": {
+        "MCP_STORAGE_DIR": "/mnt/persist/workspace/mcp_data"
+      }
+    }
+  }
+}
