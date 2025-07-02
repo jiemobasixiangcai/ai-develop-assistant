@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=jiemobasixiangcai&project=ai-develop-assistant&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🚀 MCP AI开发助手
 
 > 协助AI开发者进行智能化需求分析与架构设计的MCP工具
