@@ -12,14 +12,28 @@
 ## 📁 快速配置
 
 ### 旧版本配置
+1. **克隆代码**
+   ```bash
+   git clone https://github.com/jiemobasixiangcai/ai-develop-assistant.git
+   ```
+2. **推荐虚拟环境**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Unix/Linux/MacOS
+   venv\Scripts\activate  # Windows
+   ```
+3. **安装依赖**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-1. **配置文件位置**
+4. **配置文件位置**
    ```
    Windows: %APPDATA%\Claude\claude_desktop_config.json
    macOS: ~/Library/Application Support/Claude/claude_desktop_config.json
    ```
 
-2. **添加配置**
+5. **添加配置**
    ```json
    {
      "mcpServers": {
@@ -50,7 +64,7 @@
 10. **export_final_document** - 导出完整文档
 11. **view_requirements_status** - 查看需求状态
 
-#### 配置
+#### 配置（远程直连复制到你的工具中，将MCP_STORAGE_DIR替换为你的本地目录）
    ```json
    {
      "mcpServers": {
