@@ -50,7 +50,22 @@
 
 ## 📁 配置方法
 
-### 方法1: Claude Desktop配置 (推荐)
+### 远程直连（推荐）将MCP_STORAGE_DIR替换为你的本地目录后复制配置粘贴到工具中即可
+   ```json
+   {
+      "mcpServers": {
+         "ai-develop-assistant": {
+            "command": "uvx",
+            "args": ["ai-develop-assistant@latest"],
+            "env": {
+            "MCP_STORAGE_DIR": "/path/to/your/storage"
+            }
+         }
+      }
+   }
+   ```
+
+### 本地部署 方法1: Claude Desktop配置 (推荐)
 
 1. **找到配置文件位置**
    ```
@@ -59,7 +74,7 @@
    Linux: ~/.config/claude/claude_desktop_config.json
    ```
 
-2. **添加配置内容**
+2. **本地部署配置内容**
    ```json
    {
      "mcpServers": {
